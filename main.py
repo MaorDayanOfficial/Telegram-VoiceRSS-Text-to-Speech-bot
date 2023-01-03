@@ -50,4 +50,4 @@ dispatcher.add_handler(echo_handler)
 updater.start_polling()
 
 #MaorDayan
-#To use this code, you need to replace YOUR_TOKEN_HERE with your actual Telegram API token and YOUR_API_KEY with your VoiceRSS API key. You can sign up for a VoiceRSS API key at https://www.voicerss.org/register.aspx.
+#To use this code, you need to replace YOUR_TOKEN_HERE with your actual Telegram API token and YOUR_API_KEY with your VoiceRSS API key. You can sign up for a VoiceRSS API key at https://www.voicerss.org/registration.aspx.
